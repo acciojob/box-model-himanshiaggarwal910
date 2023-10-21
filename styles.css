@@ -25,7 +25,8 @@ body {
 }
 
 .red {
-    background-color: #ff5733;
+/*     background-color: #ff5733; */
+	background-color:rgb(255, 87, 51);
 }
 
 .green {
